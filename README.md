@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sarpraskh
+- 👀 I’m interested in educational infrastucture
+- 🌱 I’m currently learning how to build an aplication
+- 💞️ I’m looking to collaborate on my free project
+- 📫 contact me @ sarpras.kh@gmail.com
